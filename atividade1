@@ -1,0 +1,30 @@
+<html>
+ <head>
+    <!-- nao vai ser renderizado , nao vai ser exposto -->
+    <title> atividade 1 </title>
+
+ </head>
+
+ <body>
+    <!-- vai ser renderizado , vai ser exposto no corpo de site -->
+    <h1> Cadastro de Pessoas </h1>
+    <label> Nome: </label>
+    <input type="text">
+    <br> <br>
+    <label> Cor favorita: </label>
+    <input type="color">
+    <br> <br>
+    <label> Data de nascimento </label>
+    <input type="date">
+    <br> <br>
+    <label> Foto: </label>
+    <input type="file">
+    <br> <br>
+    <label> Login: </label>
+    <input type="text">
+    <br> <br>
+    <label> Senha: </label>
+    <input type="password">
+
+ </body>
+</html>
