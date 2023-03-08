@@ -1,0 +1,27 @@
+<html>
+<head> 
+    <title> Domuneto 2 </title>
+</head>
+<body> 
+    <fieldset>
+        <legend> Matemática </legend>
+        
+        <input type="image" src="formulas-cientificas-na-lousa_23-2148494010.avif">
+    <br><br>
+        <label> 
+            3 + 3 = <input type="text">
+            <br><br>
+            10 / 3 = <input type="text">
+            <br><br>
+            5 * 2 = <input type="text">
+            <br><br>
+            Essa tarefa foi difícil? <input type="range">
+
+
+        </label>
+    </fieldset>
+
+
+</body>
+
+</html>
